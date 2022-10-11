@@ -1,6 +1,8 @@
 # Boas-vindas ao repositório do projeto App de Receitas!
 
 
+<h3> Veja a aplicação Rodando https://rafaelribeiro96.github.io/recipes-app/#/ </h3>
+</br>
 
 <details>
   <summary><strong>👨‍💻 O que deverá ser desenvolvido</strong></summary><br />
