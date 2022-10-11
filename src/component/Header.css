@@ -1,0 +1,80 @@
+.header-css {
+  background-color: rgb(245, 175, 53);
+  border-bottom: solid 1px rgb(231, 146, 0, 0.9);
+  color: black;
+
+  /* border: red solid 1px; */
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+.header-title button {
+  background-color: rgb(245, 175, 53);
+  border: 0;
+}
+
+.header-title {
+  align-items: center;
+
+  /* border: palevioletred solid 1px; */
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  margin-right: 10px;
+}
+
+.header-title h3 {
+  font-size: large;
+  font-style: italic;
+  font-weight: 100;
+}
+
+.all-search-header {
+
+  /* border: green solid 1px; */
+  display: flex;
+  flex-direction: column;
+}
+
+.search-header {
+  text-align: center;
+}
+
+.search-header-radio {
+  align-items: center;
+  display: flex;
+  font-size: small;
+  justify-content: space-around;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  width: 100%;
+}
+
+.search-header-radio input {
+  margin-left: 5px;
+}
+
+.input-text-search {
+  border: 0;
+  border-radius: 10px;
+  margin: 10px 20px 5px;
+  padding-left: 20px;
+}
+
+.search-header button {
+  background-color: rgb(236, 219, 189);
+  border: 0;
+  border-radius: 10px;
+  font-size: small;
+  font-weight: 700;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.page-title-header {
+  color: black;
+  margin-top: 3px;
+}
+

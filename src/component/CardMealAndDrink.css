@@ -1,0 +1,75 @@
+.card-drink-meal-css {
+  align-items: center;
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+
+.only-card-drink-meal {
+  border-radius: 20px;
+  box-shadow: 10px 5px 5px rgb(253, 235, 205);
+  height: 100%;
+  margin: 10px;
+  padding: 10px;
+  width: 40%;
+}
+
+.only-card-drink-meal:hover {
+  background-color: rgb(255, 249, 241);
+}
+
+.only-card-drink-meal h2 {
+  background-color: rgba(255, 255, 255, 0);
+  font-size: large;
+}
+
+.card-drink-meal-css img {
+  border: 1px solid rgb(197, 160, 90);
+  border-radius: 5%;
+  margin-bottom: 5%;
+  margin-top: 5%;
+  max-width: 100%;
+}
+
+/* .card-drink-meal-css {
+  align-items: center;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  text-align: center;
+}
+
+
+.only-card-drink-meal {
+  align-items: center;
+  border-radius: 20px;
+  box-shadow: 10px 5px 5px rgb(253, 235, 205);
+  display: flex;
+  justify-content: space-evenly;
+  margin: 10px;
+  padding: 10px;
+  width: 80%;
+}
+
+.only-card-drink-meal :hover {
+  background-color: rgb(255, 249, 241);
+}
+
+.only-card-drink-meal h2 {
+  background-color: rgba(255, 255, 255, 0);
+  font-size: x-large;
+}
+
+.card-drink-meal-css img {
+  border: 1px solid rgb(197, 160, 90);
+  border-radius: 5%;
+  margin-bottom: 5%;
+  margin-top: 5%;
+  max-width: 40%;
+} */
+

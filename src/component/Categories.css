@@ -1,0 +1,30 @@
+.category-area {
+  background-color: rgb(245, 175, 53, 0.1);
+  margin-top: 0;
+  text-align: center;
+  top: 0;
+  width: 100%;
+}
+
+
+.category-area button {
+  background-color: rgb(245, 175, 53, 0.1);
+  border-bottom: solid 1px rgb(231, 146, 0, 0.3);
+  border-left: solid 1px rgb(231, 146, 0, 0.3);
+  border-right: solid 1px rgb(231, 146, 0, 0.3);
+  border-top: 0;
+  box-shadow: none;
+  color: rgb(58, 58, 58);
+  font-size: small;
+  font-weight: 500;
+  height: 30px;
+  padding-left: 2px;
+  padding-right: 2px;
+  width: 33%;
+}
+
+
+.category-area button:hover {
+  background-color: rgb(255, 168, 19, 0.5);
+}
+
